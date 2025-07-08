@@ -10,10 +10,11 @@ To view these solutions, we recommend to
 
 ## Organization
 
-| Abbreviation | Expansion         | Meaning
-| ------------ | ----------------- | ------------
-| gc           | great circle      | great circle of the shell
-| pd           | tetrahedron       | tetrahedron inscribed in a shell
-| hm           | homeotropic       | homeotropic anchoring conditions, namely w0 = 10.0, w1 = w2 = 0
-| pd           | planar degenerate | planar degenerate anchoring conditions, namely w0 = 0, w1 = w2 = 10.0
-| tau<number>  | tau = <number>    | tau, the twist term, also called q0, equals <number>
+| Abbreviation | Expansion         | Meaning |
+| ------------ | ----------------- | --- |
+| gc           | great circle      | initial condition of the great circle of the shell |
+| pd           | tetrahedron       | initial condition of the tetrahedron inscribed in a shell |
+| hm           | homeotropic       | homeotropic anchoring conditions, namely w0 = 10.0, w1 = w2 = 0 |
+| pd           | planar degenerate | planar degenerate anchoring conditions, namely w0 = 0, w1 = w2 = 10.0 |
+| tau<number>  | tau = <number>    | tau, the twist term, also denoted q0, equals <number> |
+| sliced       | sliced            | the initial condition is sliced such that exactly 4 tau+1/2 defects form |
