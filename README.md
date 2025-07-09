@@ -13,7 +13,7 @@ To view these solutions, we recommend to
 | Abbreviation | Expansion         | Meaning |
 | ------------ | ----------------- | --- |
 | gc           | great circle      | initial condition of the great circle of the shell |
-| pd           | tetrahedron       | initial condition of the tetrahedron inscribed in a shell |
+| tet           | tetrahedron       | initial condition of the tetrahedron inscribed in a shell |
 | hm           | homeotropic       | homeotropic anchoring conditions, namely w0 = 10.0, w1 = w2 = 0 |
 | pd           | planar degenerate | planar degenerate anchoring conditions, namely w0 = 0, w1 = w2 = 10.0 |
 | tau#         | tau = #           | tau, the twist term, also denoted q0, equals # |
