@@ -10,11 +10,12 @@ To view these solutions, we recommend to
 
 ## Organization
 
-| Abbreviation | Expansion         | Meaning |
-| ------------ | ----------------- | --- |
-| gc           | great circle      | initial condition of the great circle of the shell |
-| tet           | tetrahedron       | initial condition of the tetrahedron inscribed in a shell |
-| hm           | homeotropic       | homeotropic anchoring conditions, namely w0 = 10.0, w1 = w2 = 0 |
-| pd           | planar degenerate | planar degenerate anchoring conditions, namely w0 = 0, w1 = w2 = 10.0 |
-| tau#         | tau = #           | tau, the twist term, also denoted q0, equals # |
-| sliced       | sliced            | the initial condition is sliced such that exactly 4 tau+1/2 defects form |
+| Abbreviation | Expansion            | Meaning |
+| ------------ | -----------------    | --- |
+| gc           | great circle         | initial condition of the great circle of the shell |
+| tet          | tetrahedron          | initial condition of the tetrahedron inscribed in a shell |
+| hm           | homeotropic          | homeotropic anchoring conditions, namely w0 = 10.0, w1 = w2 = 0 |
+| pd           | planar degenerate    | planar degenerate anchoring conditions, namely w0 = 0, w1 = w2 = 10.0 |
+| tau#         | tau = #              | tau, the twist term, also denoted q0, equals # |
+| sliced       | sliced               | the initial condition is sliced such that exactly 4 tau+1/2 defects form |
+| w            | anchoring constant   | the weak anchoring constants, either w0 with w1=w1=0, or w1=w2 with w0=0 |
