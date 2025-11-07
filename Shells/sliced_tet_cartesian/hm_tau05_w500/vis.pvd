@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<VTKFile type="Collection" version="0.1" byte_order="LittleEndian">
+<Collection>
+<DataSet timestep="0" file="vis/vis_0.pvtu" />
+<DataSet timestep="0.05" file="vis/vis_1.pvtu" />
+<DataSet timestep="0.51" file="vis/vis_2.pvtu" />
+<DataSet timestep="0.060000000000000005" file="vis/vis_3.pvtu" />
+</Collection>
+</VTKFile>
